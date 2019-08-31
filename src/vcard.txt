@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Melvin Vivas
+ORG:Freelance
+TITLE:Senior Software Engineer
+TEL:+1234567
+URL:https://www.melvinvivas.com
+EMAIL:melvindave@gmail.com
+ADR:Singapore
+END:VCARD
